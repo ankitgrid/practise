@@ -1,3 +1,5 @@
 .Net Framework
 Visual Studio
 C#
+Ms Excel
+UI Path
